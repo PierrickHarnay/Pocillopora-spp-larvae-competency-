@@ -13,7 +13,7 @@ This step of understanding will help us fill in missing parts of the reproductiv
 ### Design experimental 
 The diagram below is a generalized plan of the experimental design. The full experimental plan/protocol is available in the **Metadata** section.   
 
-![design_exp](https://pierrickharnay.github.io/PierrickHarnay_Notebook/Images/design_exp.JPG)  
+![design_exp](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/design_exp.JPG)  
 
 **Fig 2:**  **A**: General plan for the distribution of the 5 tested elements as recruitment substrates. Three types of CCA (crustose coralline algae) were selected based on the study by **Vizon et al. 2024**. A total of 6 replicates per condition were carried out. Within each well, 10 *Pocillopora* larvae were placed. All substrates and larvae were replaced every 24 hours. **B**: 1) Collection of larvae from the lagoon 2) Maintenance of larvae in an aquarium (by spawning date and species; larvae from different colonies are fertilized and mixed in the aquariums) maintained in an open system 3) Counting of larvae under a microscope using blue light (to enhance fluorescent proteins and detect the larvae) 4) Placement of larvae according to their conditions. Steps 2 to 4 will be performed daily until the settlement phase is observed.  
   
